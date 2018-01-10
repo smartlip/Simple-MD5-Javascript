@@ -1,4 +1,4 @@
 # Simple MD5 JavaScript
 
 # Usage
-MD5("whatever");
+<script>MD5("whatever");</script>
